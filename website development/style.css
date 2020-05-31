@@ -1,0 +1,122 @@
+#topHeader{
+background-color:ghostwhite;
+border-bottom: 1px solid silver;
+
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* START footer*/
+.full-footer{
+    background-color: #2c3e50;
+}
+
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color: white;
+}
+
+/* END footer*/
+
+/*this is start of home page hero section*/
+.top-hero{
+    background-color: rgba(202, 211, 200, 0.89);
+}
+.top-hero a{
+    color: #2c3e50;
+    font-weight: 600;
+}
+/* END : home page hero section*/
+
+.qualities-img{
+    width: 200px;
+}
+
+/* START Blue Strip*/
+.requirements-section{
+background-color: #004d80;
+}
+
+.requirements-section h3{
+    color: whitesmoke;
+    }
+/* END Blue Strip*/
+
+/* START newsletter*/
+
+.newsletter{
+    background-color: #004d80;   
+    
+}
+
+.newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+.newsletter .btn{
+    min-height: 50px;
+    border-color: transparent;
+    border-radius:  0 20px 20px 0;
+    background-color: greenyellow;
+    color: #2c3e50;
+    font-weight: 600;
+}
+/* END newsletter*/
+
+/* START Client section*/
+.clients-section{
+    background-color: #f0f0f0;
+}
+/* END Client section*/
+
+/*END of Home Page*/
+
+
+
+/* START About page*/
+
+/*-- heading START*/
+.breadcrumbs-section{
+    background-color: #e9ecef;
+}
+/*<!-- heading END-->*/
+
+/*<!-- About START-->*/
+
+/*<!-- About END-->*/
+
+/* END About page*/
+
+
+/*contact us*/
+.address p{
+font-weight: 600;
+}
+
+.bar{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 1.1rem;
+     border-radius: 70px;
+     border: 1px solid slategray;
+}
